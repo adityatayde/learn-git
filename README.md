@@ -2,7 +2,7 @@
 
 # Project Summary
 
-Practice using git + Github2
+Practice using git + Github1
 
 This project will consist of three separate mini-projects to get you comfortable with the kinds of activities you'll be using git for throughout the class. 
 
